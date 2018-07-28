@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "8432740808",
+    "firebase_url": "https://ieeequizapp.firebaseio.com",
+    "project_id": "ieeequizapp",
+    "storage_bucket": "ieeequizapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8432740808:android:bba5323c53c436f0",
+        "android_client_info": {
+          "package_name": "com.trial.efcorp.iqa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8432740808-c318nfuaj3f6aepteap4aepa5oeeeak9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trial.efcorp.iqa",
+            "certificate_hash": "8a9a764d5ee5204fd1c5aadad5e824f9462e5ff6"
+          }
+        },
+        {
+          "client_id": "8432740808-b4tva5ne9l0u50ck91mi7chmv4hpk6c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeloz0S0ju8htY4-ryA-f1GFfjEQ82N_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8432740808-b4tva5ne9l0u50ck91mi7chmv4hpk6c6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
